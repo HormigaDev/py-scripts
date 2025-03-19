@@ -1,0 +1,82 @@
+BBELAuthAPI/
+├── API
+│   ├── Controllers
+│   ├── Extensions
+│   └── Middlewares
+├── Application
+│   ├── DTOs
+│   ├── Interfaces
+│   ├── Services
+│   └── Validators
+├── BBELAuthAPI.csproj
+├── BBELAuthAPI.http
+├── BBELAuthAPI.sln
+├── Common
+├── Domain
+│   ├── Entities
+│   ├── Enums
+│   └── Exceptions
+├── Infrastructure
+│   ├── Configuration
+│   ├── Data
+│   ├── Identity
+│   └── Repositories
+├── Program.cs
+├── Properties
+│   └── launchSettings.json
+├── _database
+│   ├── backups
+│   ├── changelogs
+│   ├── init.sql
+│   └── migrations
+├── appsettings.Development.json
+├── appsettings.json
+├── bin
+│   └── Debug
+│       └── net8.0
+│           ├── BBELAuthAPI
+│           ├── BBELAuthAPI.deps.json
+│           ├── BBELAuthAPI.dll
+│           ├── BBELAuthAPI.pdb
+│           ├── BBELAuthAPI.runtimeconfig.json
+│           ├── Microsoft.AspNetCore.OpenApi.dll
+│           ├── Microsoft.OpenApi.dll
+│           ├── Swashbuckle.AspNetCore.Swagger.dll
+│           ├── Swashbuckle.AspNetCore.SwaggerGen.dll
+│           ├── Swashbuckle.AspNetCore.SwaggerUI.dll
+│           ├── appsettings.Development.json
+│           └── appsettings.json
+├── obj
+│   ├── BBELAuthAPI.csproj.nuget.dgspec.json
+│   ├── BBELAuthAPI.csproj.nuget.g.props
+│   ├── BBELAuthAPI.csproj.nuget.g.targets
+│   ├── Debug
+│   │   └── net8.0
+│   │       ├── .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+│   │       ├── BBELAuthAPI.AssemblyInfo.cs
+│   │       ├── BBELAuthAPI.AssemblyInfoInputs.cache
+│   │       ├── BBELAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+│   │       ├── BBELAuthAPI.GlobalUsings.g.cs
+│   │       ├── BBELAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+│   │       ├── BBELAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+│   │       ├── BBELAuthAPI.assets.cache
+│   │       ├── BBELAuthAPI.csproj.AssemblyReference.cache
+│   │       ├── BBELAuthAPI.csproj.CopyComplete
+│   │       ├── BBELAuthAPI.csproj.CoreCompileInputs.cache
+│   │       ├── BBELAuthAPI.csproj.FileListAbsolute.txt
+│   │       ├── BBELAuthAPI.dll
+│   │       ├── BBELAuthAPI.genruntimeconfig.cache
+│   │       ├── BBELAuthAPI.pdb
+│   │       ├── apphost
+│   │       ├── ref
+│   │       │   └── BBELAuthAPI.dll
+│   │       ├── refint
+│   │       │   └── BBELAuthAPI.dll
+│   │       ├── staticwebassets
+│   │       │   ├── msbuild.build.BBELAuthAPI.props
+│   │       │   ├── msbuild.buildMultiTargeting.BBELAuthAPI.props
+│   │       │   └── msbuild.buildTransitive.BBELAuthAPI.props
+│   │       └── staticwebassets.build.json
+│   ├── project.assets.json
+│   └── project.nuget.cache
+└── r-backups.json
